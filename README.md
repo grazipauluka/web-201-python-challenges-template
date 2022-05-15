@@ -43,3 +43,6 @@ To run all tests in one test file:
 ```
 pytest -q test_challenge_00.py
 ```
+
+priorities:
+1 > 6 > 2 > 4 > 5 > 3 > 7
