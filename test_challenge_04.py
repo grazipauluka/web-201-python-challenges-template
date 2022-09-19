@@ -6,7 +6,8 @@
 # True or False if the variable is a palindrome.
 
 def is_palindrome(var):
-    pass
+    for x in var:
+
 
 def test_challenge_04_palindrome_number():
     assert is_palindrome(545) == True
